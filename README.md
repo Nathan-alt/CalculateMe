@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 Click here to watch video:
-![Watch the video](https://drive.google.com/file/d/1aTH1vs7y8DXmmI7DS5wg2cFX8b3P_CtK/view?usp=sharing)
-
+![Watch the video]([https://drive.google.com/file/d/1aTH1vs7y8DXmmI7DS5wg2cFX8b3P_CtK/view?usp=sharing](https://drive.google.com/file/d/1aTH1vs7y8DXmmI7DS5wg2cFX8b3P_CtK/view))
+https://drive.google.com/file/d/1aTH1vs7y8DXmmI7DS5wg2cFX8b3P_CtK/view
 
 ### Notes:
 
